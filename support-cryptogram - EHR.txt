@@ -1,0 +1,20 @@
+A = Q
+C = E
+I = M
+L = P
+Q = N
+Y = O
+
+
+
+J = U
+Z = A
+D = R
+U = T
+D = R
+B = S
+
+
+QUEUE | PAIR-PROGRAMMING | ADVISOR MEETINGS | MESSAGE INSTRUCTOR OR MENTOR
+----- | ---------------- | ------- -------- | ------- ---------- -- ------
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
